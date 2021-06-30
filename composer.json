@@ -1,0 +1,22 @@
+{
+    "name": "longxinhong/jwt-token",
+    "description": "jwt token",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Longxinhong\\JwtToken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "longxh",
+            "email": "1058524166@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "ext-json": "*"
+    }
+}
